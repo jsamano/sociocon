@@ -13,7 +13,7 @@ namespace Sociocon
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new UI.LoginPage();
         }
 
         protected override void OnStart()
